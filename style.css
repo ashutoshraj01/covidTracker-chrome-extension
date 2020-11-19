@@ -1,0 +1,20 @@
+body{
+    border:3px solid black;
+    padding:12px;
+    margin:0 auto;
+    text-align:center;
+  }
+  .errors,.enter-country,.loading{
+    padding:12px;
+    text-align:center;
+  }
+  .safe{
+    border-radius: 5px;
+    padding:5px;
+    background-image: linear-gradient(180deg, red, yellow);
+    margin:8px 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
